@@ -1,0 +1,30 @@
+_repo: '---_27398'
+_version: 0.1.0
+alternative_title: Ji le bian
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhuang, Chuo
+    aliases:
+    - Chuang, Cho
+    - 莊綽
+    - Zhuang, Jiyu
+    birthdate: 1078
+    gutenberg_agent_id: '32670'
+    url: http://www.gutenberg.org/2009/agents/32670
+description: ''
+gutenberg_issued: '2008-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27398'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+- !lcc 'DS'
+title: 雞肋編
+url: http://www.gutenberg.org/ebooks/27398
